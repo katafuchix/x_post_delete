@@ -36,7 +36,7 @@ Python、Node.js、X Developer ConsoleのAPIキーは不要です。
 5. アーカイブモードの場合は、画面に表示される **「アーカイブファイルを選択」** ボタンをクリックし、`data/tweets.js` を選びます。**選択後、削除処理が始まります。**
 6. Consoleで進捗・エラーを確認します。
 
-[X（旧Twitter）の過去ポストを無料で一括削除する方法【API不要・アーカイブ対応】]([https://github.com/backzso/tweetdelete](https://qiita.com/katafuchix/items/f8f268ef3538bdea1267))
+[X（旧Twitter）の過去ポストを無料で一括削除する方法【API不要・アーカイブ対応】](https://qiita.com/katafuchix/items/f8f268ef3538bdea1267)
 
 ### アーカイブモードのログ例
 
